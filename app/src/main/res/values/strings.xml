@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Netflix_Kotlin</string>
     <string name="house_of_cards">House of Cards</string>
+    <string name="s1_e2">S1:E2</string>
+    <string name="menu_message">menu_message</string>
+    <string name="menu_star">menu_star</string>
+    <string name="menu_volum">menu_volum</string>
+    <string name="menu_copy">menu_copy</string>
 </resources>
