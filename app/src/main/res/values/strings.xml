@@ -4,6 +4,9 @@
     <string name="s1_e2">S1:E2</string>
     <string name="menu_message">menu_message</string>
     <string name="menu_star">menu_star</string>
-    <string name="menu_volum">menu_volum</string>
+    <string name="menu_volum">menu_volume</string>
     <string name="menu_copy">menu_copy</string>
+    <string name="_01_30">01:30</string>
+    <string name="_42_20">42:20</string>
+    <string name="image_house">image_house</string>
 </resources>
